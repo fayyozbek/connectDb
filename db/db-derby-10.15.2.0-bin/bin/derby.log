@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Dec 27 20:32:48 UZT 2020:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): экземпляр a816c00e-0176-a4d4-a3c4-000006b00140
+в каталоге базы данных C:\Apache\Derby\db-derby-10.15.2.0-bin\bin\MyDbTest jdk.internal.loader.ClassLoaders$AppClassLoader@5b37e0d2 
+
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.4+11-LTS
+user.dir=C:\Apache\Derby\db-derby-10.15.2.0-bin\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
